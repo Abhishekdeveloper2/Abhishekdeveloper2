@@ -6,7 +6,6 @@
   
   <img align="right" alt=" affiliate marketing" width="400" src="https://media.istockphoto.com/id/503592634/photo/affiliate-marketing.jpg?b=1&s=170667a&w=0&k=20&c=Z51p2xt40CvWLPEySgPTsPQP1LgzybrLe0zVooIxFuo="> 
 
-<p align="left"> <img src="![banner](https://github.com/user-attachments/assets/b57bbacd-a480-45f1-bb0e-02c995ede938)</img>
 
 🚀 Digital Creator  
 🎯 Sales Closing Expert  
