@@ -1,4 +1,6 @@
- ![logo](banner](https://github.com/user-attachments/assets/86bba3a3-0bc2-4bb1-acd5-a304ab6654ae)
+![logo](banner](https://github.com/user-attachments/assets/86bba3a3-0bc2-4bb1-acd5-a304ab6654ae)
+
+## Hii👋. I'm Abhishek Upadhyay
 <h1 align="center"> ## Hii👋. I'm Abhishek Upadhyay</h1>
 <h3 align="center"> A Pursuing Web Developer</h3>
   
