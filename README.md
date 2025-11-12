@@ -1,16 +1,16 @@
-## Hii👋. I'm Abhishek Upadhyay
-
+ ![logo](banner](https://github.com/user-attachments/assets/86bba3a3-0bc2-4bb1-acd5-a304ab6654ae)
+<h1 align="center"> ## Hii👋. I'm Abhishek Upadhyay</h1>
+<h3 align="center"> A Pursuing Web Developer</h3>
+  
   <img align="right" alt=" affiliate marketing" width="400" src="https://media.istockphoto.com/id/503592634/photo/affiliate-marketing.jpg?b=1&s=170667a&w=0&k=20&c=Z51p2xt40CvWLPEySgPTsPQP1LgzybrLe0zVooIxFuo="> 
+
+<p align="left"> <img src="![banner](https://github.com/user-attachments/assets/b57bbacd-a480-45f1-bb0e-02c995ede938)</img>
+
 🚀 Digital Creator  
 🎯 Sales Closing Expert  
 🤝 Helping Coaches & Consultants scale to 6-Figures in 90 days  
 📌 Click below to learn my proven 
 🌟 Personal Branding Style
-
-Hi, I’m [Abhi Upadhyay] 👋
-💼 Digital Marketer | 📍[Abhishekdeveloper2]
-🚀 Let’s grow your brand together
-📩 DM for strategy sessions
 
 💬 Call-to-Action Focused
 
@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... I'm developer
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... I'm funny
 -->
