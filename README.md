@@ -21,7 +21,7 @@ Turning followers into loyal customers 💪
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Affiliate Marketing
-- 🌱 I’m currently learning ... Web Development
+- 🌱 I’m currently learning ... Full stake and Web Development
 - 👯 I’m looking to collaborate on ... Gyankamao
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... I'm developer
