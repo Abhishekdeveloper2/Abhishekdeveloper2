@@ -1,6 +1,3 @@
-![logo](https://github.com/settings/profile)
-
-
 <h1 align="center"> ## Hii👋. I'm Abhishek Upadhyay</h1>
 <h3 align="center"> A Pursuing Web Developer</h3>
   
@@ -15,7 +12,19 @@
 
 💬 Call-to-Action Focused
 
-Turning followers into loyal customers 💪
+**Abhishekdeveloper2/Abhishekdeveloper2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ... Affiliate Marketing
+- 🌱 I’m currently learning ... Web Development
+- 👯 I’m looking to collaborate on ... Gyankamao
+- 🤔 I’m looking for help with ... 
+- 💬 Ask me about ... I'm developer
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 **Abhishekdeveloper2/Abhishekdeveloper2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
